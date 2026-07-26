@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aastha Jethwa</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aasthajethwa" alt="aasthajethwa" /></a> </p>
-
 - 📫 How to reach me **aasthajethwa002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
