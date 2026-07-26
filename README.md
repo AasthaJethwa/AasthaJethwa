@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aastha Jethwa</h1>
+[![Typing SVG](https://demolab.com!)](https://git.io)
+
 <h3 align="center">Aspiring Software Engineer</h3>
 
 - 📫 How to reach me **aasthajethwa002@gmail.com**
